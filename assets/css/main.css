@@ -1,0 +1,9 @@
+:root{
+    --bg-color-main: #9c7bd9;
+    --bg-color-btn-del: #dc3545;
+    --bg-color-btn-add: #2f68bb;
+}
+
+body{
+    background-color: var(--bg-color-main) ;
+}
